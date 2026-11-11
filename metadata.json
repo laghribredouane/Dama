@@ -1,0 +1,6 @@
+{
+  "name": "Dama Maroc",
+  "description": "Jeu de dames marocaines traditionnel (الضامة المغربية) avec IA Minimax, mode 2 joueurs local, multijoueur en ligne, variantes de règles et ambiance marocaine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
